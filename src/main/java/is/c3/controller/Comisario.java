@@ -34,7 +34,7 @@ public class Comisario {
 		
 	}
     private void printData() {
-    	System.out.println("Pinturas en la galería:");
+    	System.out.println("Pinturas en la galería: frafrobra");
 		// Mostrar todas las pinturas de la galería
 		System.out.println(galeria.findAll());
     	
